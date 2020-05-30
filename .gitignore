@@ -1,0 +1,24 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+.idea/workspace.xml
+.idea/*
+.idea
+.idea/vcs.xml
+.idea/modules.xml
+.idea/maximarkets.site.iml
+*.zip
+*.rar
+*.gz
+*.sql
+*.tar
+license.txt
+readme.html
+web.config
+*.log
+wp-content/backup-db/
+wp-content/backups/
+wp-content/cache/
+wp-content/upgrade/
+./wp-config.php
+
+**/node_modules/
+**/query-monitor/
